@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1653988890523,
+  "timestamp": 1653989509229,
   "index": "/GhibliFilms/index.html",
   "assetGroups": [
     {
@@ -50,7 +50,7 @@
         "https:\\/\\/www\\.themoviedb\\.org\\/t\\/p\\/original\\/qMxpGzmmnY1jLd4p7EhhoW43wWF\\.jpg"
       ],
       "strategy": "performance",
-      "maxSize": 1,
+      "maxSize": 100,
       "maxAge": 21600000,
       "timeoutMs": 1000,
       "cacheQueryOptions": {
